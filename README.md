@@ -8,7 +8,7 @@ That's why I had to fully modify it in order to create a Windows DLL so that it 
 
 The app is able to connect to IEDs, catch and manage Goose messages. 
 
-All the info (how to use and modify it) are available in the french report that we made for the notation of the project. 
+All the info (how to use and modify it) are available in the french report (README.pdf) that we made for the notation of the project. 
 A further version would be to monitor the Sample Values.
 
 You can easily edit this project for your needs with the details in the report. Please feel free to contact me if you need any information.
