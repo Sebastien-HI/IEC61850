@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\examples\goose_observer\Debug\goose_observer.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

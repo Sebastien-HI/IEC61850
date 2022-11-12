@@ -1,0 +1,1 @@
+GE|F650|UTBM_Relay1|192.168.0.5|255.255.255.0|102|1|System.Drawing.Bitmap|C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\TO54- IEC61850 - graphique\f650.jpg~

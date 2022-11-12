@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/TestBigEndian.cmake
+C:/Users/sebas/OneDrive - Universite De Technologie De Belfort-Montbeliard/8. BR04/TO54/Lib-Code Source/LIB RENDU/libiec61850-1.5/hal/CMakeLists.txt

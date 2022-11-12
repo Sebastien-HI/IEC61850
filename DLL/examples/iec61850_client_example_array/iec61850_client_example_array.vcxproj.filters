@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\examples\iec61850_client_example_array\client_example_array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\examples\iec61850_client_example_array\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{14CD2C49-A5EE-344B-B72A-2510AC7C4EDA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindDoxygen.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/GenerateExportHeader.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/exportheader.cmake.in
+C:/Users/sebas/OneDrive - Universite De Technologie De Belfort-Montbeliard/8. BR04/TO54/Lib-Code Source/LIB RENDU/libiec61850-1.5/src/CMakeLists.txt
+C:/Users/sebas/OneDrive - Universite De Technologie De Belfort-Montbeliard/8. BR04/TO54/Lib-Code Source/LIB RENDU/libiec61850-1.5/src/version.rc.in

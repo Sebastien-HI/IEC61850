@@ -1,0 +1,10 @@
+﻿hal.lib(ethernet_win32.obj) : error LNK2019: symbole externe non résolu pcap_open_live référencé dans la fonction Ethernet_createSocket
+hal.lib(ethernet_win32.obj) : error LNK2019: symbole externe non résolu pcap_close référencé dans la fonction Ethernet_destroySocket
+hal.lib(ethernet_win32.obj) : error LNK2019: symbole externe non résolu pcap_next_ex référencé dans la fonction Ethernet_receivePacket
+hal.lib(ethernet_win32.obj) : error LNK2019: symbole externe non résolu pcap_setfilter référencé dans la fonction Ethernet_setProtocolFilter
+hal.lib(ethernet_win32.obj) : error LNK2019: symbole externe non résolu pcap_sendpacket référencé dans la fonction Ethernet_sendPacket
+hal.lib(ethernet_win32.obj) : error LNK2019: symbole externe non résolu pcap_geterr référencé dans la fonction Ethernet_sendPacket
+hal.lib(ethernet_win32.obj) : error LNK2019: symbole externe non résolu pcap_compile référencé dans la fonction Ethernet_setProtocolFilter
+hal.lib(ethernet_win32.obj) : error LNK2019: symbole externe non résolu pcap_freealldevs référencé dans la fonction "char * __cdecl getInterfaceName(int)" (?getInterfaceName@@YAPEADH@Z)
+hal.lib(ethernet_win32.obj) : error LNK2019: symbole externe non résolu pcap_findalldevs_ex référencé dans la fonction "char * __cdecl getInterfaceName(int)" (?getInterfaceName@@YAPEADH@Z)
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\src\Debug\iec61850.dll : fatal error LNK1120: 9 externes non résolus

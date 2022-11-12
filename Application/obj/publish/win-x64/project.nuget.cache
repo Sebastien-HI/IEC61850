@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f5YBkwp30fDDpsMtXVAnZUNM0tSy0dcETe48Dauuh2HD07qiaR37S+c4mbXV9Hc6mSVJF+WNMpSyGuqlfydaUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebas\\OneDrive - Universite De Technologie De Belfort-Montbeliard\\8. BR04\\TO54\\TO54- IEC61850 - graphique\\IHM_v2.0\\IHM\\IHM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.4\\microsoft.netcore.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.4\\microsoft.aspnetcore.app.runtime.win-x64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

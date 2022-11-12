@@ -1,0 +1,10 @@
+^C:\USERS\SEBAS\ONEDRIVE - UNIVERSITE DE TECHNOLOGIE DE BELFORT-MONTBELIARD\8. BR04\TO54\LIB-CODE SOURCE\LIB RENDU\LIBIEC61850-1.5\BUILT\CMAKEFILES\BEC647BD7B90DC1F0FB427628856FF49\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/sebas/OneDrive - Universite De Technologie De Belfort-Montbeliard/8. BR04/TO54/Lib-Code Source/LIB RENDU/libiec61850-1.5" "-BC:/Users/sebas/OneDrive - Universite De Technologie De Belfort-Montbeliard/8. BR04/TO54/Lib-Code Source/LIB RENDU/libiec61850-1.5/Built" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/sebas/OneDrive - Universite De Technologie De Belfort-Montbeliard/8. BR04/TO54/Lib-Code Source/LIB RENDU/libiec61850-1.5/Built/libiec61850.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

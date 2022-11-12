@@ -1,0 +1,26 @@
+﻿  ethernet_win32.c
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\ethernet\win32\ethernet_win32.c(236,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\ethernet\win32\ethernet_win32.c(398,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  file_provider_win32.c
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\filesystem\win32\file_provider_win32.c(55,34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\filesystem\win32\file_provider_win32.c(57,34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\filesystem\win32\file_provider_win32.c(65,53): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\filesystem\win32\file_provider_win32.c(71,51): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\filesystem\win32\file_provider_win32.c(113,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\filesystem\win32\file_provider_win32.c(114,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lib_memory.c
+  serial_port_win32.c
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\serial\win32\serial_port_win32.c(45,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\serial\win32\serial_port_win32.c(178,1): warning C4533: L'initialisation de 'timeouts' est ignorée par 'goto exit_error'.
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\serial\win32\serial_port_win32.c(151): message : voir la déclaration de 'timeouts'
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\serial\win32\serial_port_win32.c(178): message : voir la déclaration de 'exit_error'
+  socket_win32.c
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\socket\win32\socket_win32.c(108,41): warning C4244: 'argument' : conversion de 'SOCKET' en 'int', perte possible de données
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\socket\win32\socket_win32.c(439,37): warning C4244: 'argument' : conversion de 'SOCKET' en 'int', perte possible de données
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\socket\win32\socket_win32.c(492,25): warning C4244: 'argument' : conversion de 'SOCKET' en 'int', perte possible de données
+  thread_win32.c
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\thread\win32\thread_win32.c(41,51): warning C4311: 'cast de type' : troncation de pointeur de 'void *' à 'UINT'
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\hal\thread\win32\thread_win32.c(41,51): warning C4302: 'cast de type' : troncation de 'void *' à 'UINT'
+  time.c
+  Génération de code en cours...
+  hal.vcxproj -> C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\hal\Debug\hal.lib

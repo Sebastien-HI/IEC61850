@@ -1,0 +1,35 @@
+Determining if the function clock_gettime exists in the rt failed with the following output:
+Change Dir: C:/Users/sebas/OneDrive - Universite De Technologie De Belfort-Montbeliard/8. BR04/TO54/Lib-Code Source/LIB RENDU/libiec61850-1.5/Built/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_cfbc3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine version 17.1.0+ae57d105c pour .NET Framework
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+  Compilateur d'optimisation Microsoft (R) C/C++ version 19.31.31107 pour x64
+  CheckFunctionExists.c
+  Copyright (C) Microsoft Corporation. Tous droits réservés.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=clock_gettime /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cfbc3.dir\Debug\\" /Fd"cmTC_cfbc3.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.23\Modules\CheckFunctionExists.c"
+LINK : fatal error LNK1104: impossible d'ouvrir le fichier 'rt.lib' [C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\cmTC_cfbc3.vcxproj]
+
+
+
+Performing C++ SOURCE FILE Test COMPILER_HAS_DEPRECATED_ATTR failed with the following output:
+Change Dir: C:/Users/sebas/OneDrive - Universite De Technologie De Belfort-Montbeliard/8. BR04/TO54/Lib-Code Source/LIB RENDU/libiec61850-1.5/Built/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_fb9a5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine version 17.1.0+ae57d105c pour .NET Framework
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+  Compilateur d'optimisation Microsoft (R) C/C++ version 19.31.31107 pour x64
+  src.cxx
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\src.cxx(1,16): error C2065: '__deprecated__' : identificateur non déclaré [C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\cmTC_fb9a5.vcxproj]
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\src.cxx(1,31): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut [C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\cmTC_fb9a5.vcxproj]
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\src.cxx(1,33): error C2062: type 'int' inattendu [C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\cmTC_fb9a5.vcxproj]
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\src.cxx(1,48): error C2143: erreur de syntaxe : absence de ';' avant '{' [C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\cmTC_fb9a5.vcxproj]
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\src.cxx(1,48): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?) [C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\cmTC_fb9a5.vcxproj]
+C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\src.cxx(2,25): error C3861: 'somefunc' : identificateur introuvable [C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\cmTC_fb9a5.vcxproj]
+  Copyright (C) Microsoft Corporation. Tous droits réservés.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D COMPILER_HAS_DEPRECATED_ATTR /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_fb9a5.dir\Debug\\" /Fd"cmTC_fb9a5.dir\Debug\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\Users\sebas\OneDrive - Universite De Technologie De Belfort-Montbeliard\8. BR04\TO54\Lib-Code Source\LIB RENDU\libiec61850-1.5\Built\CMakeFiles\CMakeTmp\src.cxx"
+
+
+Source file was:
+__attribute__((__deprecated__)) int somefunc() { return 0; }
+    int main() { return somefunc();}
